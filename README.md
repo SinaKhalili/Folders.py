@@ -3,7 +3,7 @@
 <img src="https://gist.githubusercontent.com/SinaKhalili/5384cae0c5a448c95099ca4bb573a774/raw/a0f7df8724eebec50b630b836445418617f66c0f/folders_gif.gif" align="right"
      alt="A deep folders zoom" width="250">
 
-Folders is an esoteric programming language, [created by Daniel Temkin](http://danieltemkin.com/Esolangs/Folders/) in 2015, which encodes the program _entrirely_ into the **directory structure**.
+Folders is an esoteric programming language, [created by Daniel Temkin](http://danieltemkin.com/Esolangs/Folders/) in 2015, which encodes the program _entirely_ into the **directory structure**.
 
 All names of the folders as well as their contents are completely ignored. Instead, the commands
 are encoded in the nesting of folders within folders.
