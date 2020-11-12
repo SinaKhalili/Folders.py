@@ -8,27 +8,38 @@ Folders is an esoteric programming language, [created by Daniel Temkin](http://d
 All names of the folders as well as their contents are completely ignored. Instead, the commands
 are encoded in the nesting of folders within folders.
 
+Let me say that again: THE SOURCE CODE IS IMPLICIT FROM DIRECTORY STRUCTURE. Lol. 
+
 This is a Python implementation of Folders for all operating systems to enjoy!
 
 Folders is was originally implemented in [C#](https://github.com/rottytooth/Folders).
 
 ## Usage
 
-The implementation is just the python file, [folders.py](./folders.py) and has no dependencies.
+### Install from pip
+Simply install the `Folders` command line interpreter
+```
+pip install Folders
+```
 
 Give the folder of the program you wish to run as an command line argument
 
 ```
-python folders.py sample_programs/HelloWorld
+Folders sample_programs/HelloWorld
 # => Hello, World!
 ```
 
 If instead you would like list the Python code to stdout, use the `-l` option
 
 ```
-python folders.py -l sample_programs/Fibonacci
+Folders -l sample_programs/Fibonacci
 # => print("Hello, World!", end='', flush=True)
 ```
+
+### Run python
+The implementation is just the python file, [folders.py](./folders.py) and has no dependencies, so if you'd like you can run `python folders.py` instead of pip installing and use it the same as in the examples above.
+
+
 
 ## Language details
 
