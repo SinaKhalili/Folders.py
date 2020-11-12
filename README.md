@@ -98,7 +98,7 @@ Behold, the mighty Truth Machine program:
 
 ## A mighty meme-worthy point
 
-_All Folders programs are 0 bytes_ if you're on windows, and windows interprets an empty folder as 0 bytes.
+_All Folders programs are 0 bytes_ if you're on windows as it interprets an empty folder as 0 bytes.
 
 The ultimate code golf!
 
