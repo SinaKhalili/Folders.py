@@ -8,7 +8,7 @@ Folders is an esoteric programming language, [created by Daniel Temkin](http://d
 All names of the folders as well as their contents are completely ignored. Instead, the commands
 are encoded in the nesting of folders within folders.
 
-Let me say that again: THE SOURCE CODE IS IMPLICIT FROM DIRECTORY STRUCTURE. Lol. 
+Let me say that again: THE SOURCE CODE IS THE DIRECTORY STRUCTURE. Lol. 
 
 This is a Python implementation of Folders for all operating systems to enjoy!
 
