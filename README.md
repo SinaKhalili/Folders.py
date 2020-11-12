@@ -12,7 +12,7 @@ Let me say that again: THE SOURCE CODE IS THE DIRECTORY STRUCTURE. Lol.
 
 This is a Python implementation of Folders for all operating systems to enjoy!
 
-Folders is was originally implemented in [C#](https://github.com/rottytooth/Folders).
+Folders is (was originally) implemented in [C#](https://github.com/rottytooth/Folders).
 
 ## Usage
 
