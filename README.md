@@ -32,11 +32,11 @@ python folders.py -l sample_programs/Fibonacci
 
 ## Language details
 
-The language details are on the [esolangs wiki](https://esolangs.org/wiki/Folders), but here's the basics.
+The language details are on the [esolangs wiki](https://esolangs.org/wiki/Folders), but I've put it here for reference.
 
-For example, take a look at the [Fibonacci sample program](./sample_programs/Fibonacci)
+For example, take a look at the [Fibonacci sample program](./sample_programs/Fibonacci).
 
-There root folder contains a list of _command folders_, (labelled `Nf1..`, `Nf2..`, but the names don't actually matter except the alphabetical ordering) the first folder (which I've labelled with an `init`) is the first "sub-folder", the next is the second, etc.
+The root folder contains a list of _command folders_ - in this case labelled `Nf1..`, `Nf2..`, but the names don't actually matter except the alphabetical ordering - the first folder (which I've labelled with an `init`) is the first "sub-folder", the next is the second, etc.
 
 ### Commands:
 
