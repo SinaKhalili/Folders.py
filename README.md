@@ -60,6 +60,8 @@ Commands take the following form
 | while | 1 folder | Second sub-folder holds expression, third holds list of commands |
 | declare | 2 folders | Second sub-folder holds type, third holds var name (in number of folders, ex. zero folders becomes "var_0") |
 | let | 3 folders | Second sub-folder hold variable name (in number of folders), third holds an expression |
+| print | 4 folders | Second sub-folder holds expression |
+| input | 5 folders | Second sub-folder holds variable name | 
 
 ### Expressions:
 
