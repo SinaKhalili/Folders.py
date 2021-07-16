@@ -110,5 +110,3 @@ The ultimate code golf!
 
 - [Folders on esolang](https://esolangs.org/wiki/Folders)
 - [Folders homepage](http://danieltemkin.com/Esolangs/Folders/)
-
-Now you can run it on Jupyterlab!
