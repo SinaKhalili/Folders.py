@@ -3,7 +3,7 @@ Folders is an esoteric programming language created by Daniel Temkin
 
 More information here: http://danieltemkin.com/Esolangs/Folders/
 
-This is a (OS-agnostic) python implementation
+This is a python implementation
 """
 import os
 import re

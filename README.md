@@ -12,7 +12,7 @@ are encoded in the nesting of folders within folders.
 
 Let me say that again: THE SOURCE CODE IS THE DIRECTORY STRUCTURE. Lol. 
 
-This is a Python implementation of Folders for all operating systems to enjoy!
+This is a Python implementation of Folders for all to enjoy!
 
 Folders is (was originally) implemented in [C#](https://github.com/rottytooth/Folders).
 
