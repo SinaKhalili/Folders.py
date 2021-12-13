@@ -347,11 +347,14 @@ class FolderTranspiler:
                 program_code += self.transpile_input(command)
         return program_code
 
+
+
     def transpile_input(self, command):
         """
         Transpile an input command, which will just be value of name
         """
-        return f"{command.value} = input()\n"
+
+        return f"{command.value} = input()\nif {command.value}.isdigit():\n    {command.value} = int({command.value})\nelse:\n    {command.value} = {command.value}\n"
 
     def transpile_if(self, command):
         """
