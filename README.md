@@ -34,7 +34,7 @@ Folders sample_programs/HelloWorld
 If instead you would like list the Python code to stdout, use the `-l` option
 
 ```
-Folders -l sample_programs/Fibonacci
+Folders -l sample_programs/HelloWorld
 # => print("Hello, World!", end='', flush=True)
 ```
 
