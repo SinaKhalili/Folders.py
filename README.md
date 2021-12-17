@@ -39,7 +39,7 @@ Folders -l sample_programs/Fibonacci
 ```
 
 ### Run python
-The implementation is just the python file, [folders.py](./folders.py) and has no dependencies, so if you'd like you can run `python folders.py` instead of pip installing and use it the same as in the examples above.
+The implementation is just the python file, [folders.py](./folders/folders.py) and has no dependencies, so if you'd like you can clone the repo and run `python ./folders/folders.py` instead of pip installing and use it the same as in the examples above.
 
 
 
