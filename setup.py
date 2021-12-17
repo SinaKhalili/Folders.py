@@ -1,7 +1,7 @@
 import os
-from setuptools import setup
+from setuptools import setup, find_packages
 
-version = "0.0.6"
+version = "0.0.8"
 long_description = open(f"README.md").read()
 
 
@@ -19,7 +19,8 @@ setup(
         "Operating System :: OS Independent",
         "Programming Language :: Python",
     ],
-    
+    packages = find_packages(),
+    py_modules = ['folders'],
     entry_points={
         "console_scripts": [
             "Folders = folders.folders:main"
