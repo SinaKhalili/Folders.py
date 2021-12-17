@@ -1,7 +1,7 @@
 import os
 from setuptools import setup
 
-version = "0.0.5"
+version = "0.0.6"
 long_description = open(f"README.md").read()
 
 
@@ -20,5 +20,9 @@ setup(
         "Programming Language :: Python",
     ],
     
-    entry_points={"console_scripts": ["Folders = folders:main"]},
+    entry_points={
+        "console_scripts": [
+            "Folders = folders.folders:main"
+        ]
+    },
 )
